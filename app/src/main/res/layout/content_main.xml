@@ -11,6 +11,7 @@
 
     <TextView
         android:text="Happy Birthday! Ben"
+        android:textSize="36sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
 
